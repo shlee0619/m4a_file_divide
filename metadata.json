@@ -1,0 +1,5 @@
+{
+  "name": "M4A 파일 분할기",
+  "description": "긴 M4A 오디오 파일을 두 개의 동일한 길이의 파일로 쉽게 분할하는 웹 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
